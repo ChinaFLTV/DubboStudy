@@ -7,6 +7,10 @@
         <option value="$PROJECT_DIR$/Day1_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/Day1_provider/pom.xml" />
         <option value="$PROJECT_DIR$/Day1_globalEmail/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Dubbo_admin/incubator-dubbo-ops-master/dubbo-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/Day2_springboot_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Day2_springboot_provider/pom.xml" />
       </list>
     </option>
   </component>
